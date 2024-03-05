@@ -2,7 +2,7 @@
 ## Basis :
 ### Description :
 
-Build an application capable of constructing crossword puzzles. The overall objective is a program that takes a dictionary and a blank grid as input and outputs a solved grid.
+> Build an application capable of constructing crossword puzzles. The overall objective is a program that takes a dictionary and a blank grid as input and outputs a solved grid.
 
 ### Functionality:
 
